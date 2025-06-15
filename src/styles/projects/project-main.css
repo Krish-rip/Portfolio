@@ -1,0 +1,159 @@
+.project-body {
+    padding-bottom: 50px;
+    background-color: #03071e;
+}
+
+.project-page-title {
+    font-size: 35px;  
+    font-weight: 700;
+    color: #e85d04;
+}
+
+.project-page-subtitle {
+    font-size: 20px;
+}
+
+.project-page-description {
+    font-size: 14px;
+}
+
+.button-icon-padding-previous {
+    padding-right: 10px;
+}
+
+.button-icon-padding-next {
+    padding-left: 10px;
+}
+
+
+.back-button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.technology-badge-section {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.technology-badge {
+    padding: 8px 15px 8px 15px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.demo-buttons-section {
+    margin-bottom: 30px;
+}
+
+.project-screenshots {
+    margin-bottom: 15px;
+}
+
+.browse-project-buttons {
+    margin-top: 30px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .back-button {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .project-page-title {
+        font-size: 35px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 15px;
+    }
+
+    .project-screenshots {
+        margin-bottom: 20px;
+    }
+
+    .browse-project-buttons {
+        margin-top: 40px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .back-button {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .project-page-title {
+        font-size: 35px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 15px;
+    }
+
+    .project-screenshots {
+        margin-bottom: 30px;
+    }
+
+    .technology-badge-section {
+        margin-bottom: 40px;
+    }
+
+    .demo-buttons-section {
+        margin-bottom: 50px;
+    }
+    
+    .browse-project-buttons {
+        margin-top: 50px;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .project-page-title {
+        font-size: 40px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 17px;
+    }
+
+    /* .browse-project-buttons {
+        margin-top: 60px;
+    } */
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    .project-page-title {
+        font-size: 40px;
+    }
+
+    .project-page-subtitle {
+        font-size: 25px;
+    }
+
+    .project-page-description {
+        font-size: 17px;
+    }
+}

@@ -1,0 +1,454 @@
+{
+    "data": [
+        {
+            "title": "Fizzi Soda",
+            "subtitle": "3D / Animated Landing Page",
+            "imageLink": "../assets/images/project-icons/fizzi-soda.webp",
+            "projectLink": "/fizzi-soda",
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive Web Design",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/Krishkaye/Krish-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.webp",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.webp",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-4.webp",
+                    "altText": "Screenshot for Fizzi 4"
+                }
+            ]
+        },
+        {
+            "title": "Desserts Shop",
+            "subtitle": "Desserts Shop - Add to Cart Page",
+            "imageLink": "../assets/images/project-icons/dessert-shop.webp",
+            "projectLink": "/desserts-shop",
+            "projectType": "",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "Git",
+                "GitHub",
+                "Netlify",
+                "Mobile-First Design",
+                "Responsive Web Design"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/Krishkaye/Product-list-with-cart",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://product-cart-Krish.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-2.webp",
+                    "altText": "Screenshot for Desserts Shop 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-1.webp",
+                    "altText": "Screenshot for Desserts Shop 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-3.webp",
+                    "altText": "Screenshot for Desserts Shop 3"
+                }
+            ]
+        },
+        {
+            "title": "Where in the world?",
+            "subtitle": "REST Countries API",
+            "imageLink": "../assets/images/project-icons/world.webp",
+            "projectLink": "/where-in-the-world",
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Typescript",
+                "Axios",
+                "React Router",
+                "React Bootstrap",
+                "REST Countries API",
+                "Git",
+                "GitHub",
+                "Netlify",
+                "Mobile-First Design",
+                "Responsive Web Design",
+                "API Integration"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/Krishkaye/rest-countries",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://countries-Krish.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/countries/countries-1.webp",
+                    "altText": "Screenshot for Countries 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/countries/countries-2.webp",
+                    "altText": "Screenshot for Countries 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/countries/countries-3.webp",
+                    "altText": "Screenshot for Countries 3"
+                }
+            ]
+        },
+        {
+            "title": "Jigsaw Puzzle Inventory",
+            "subtitle": "Jigsaw Puzzle Community PH / Puzzle Mansion",
+            "imageLink": "../assets/images/project-icons/puzzle-inventory.webp",
+            "projectLink": "/jigsaw-inventory",
+            "projectType": "",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "PHP",
+                "MySQL",
+                "DataTables",
+                "Git",
+                "GitHub",
+                "Apache",
+                "cPanel",
+                "Mobile-First Design",
+                "Responsive Web Design"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-1.webp",
+                    "altText": "Image for login page"
+                },
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-2.webp",
+                    "altText": "Image for create account page"
+                },
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-dashboard.webp",
+                    "altText": "Image for dashboard page"
+                },
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-members.webp",
+                    "altText": "Image for jpcph members page"
+                },
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-members-pdf.webp",
+                    "altText": "Image for exported puzzles"
+                }
+            ]
+        },
+        {
+            "title": "Design Portfolio",
+            "subtitle": "Single Page Design Portfolio",
+            "imageLink": "../assets/images/project-icons/design-portfolio.webp",
+            "projectLink": "/design-portfolio",
+            "projectType": "",
+            "technologies": [
+                "HTML5",
+                "SASS",
+                "Bootstrap",
+                "JavaScript",
+                "Git",
+                "GitHub",
+                "Netlify",
+                "Mobile-First Design",
+                "Responsive Web Design"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/Krishkaye/single-page-design-portfolio",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://design-portfolio-Krish.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/single-page-design/single-page-desktop.webp",
+                    "altText": "Screenshot for Design Portfolio"
+                }
+            ]
+        },
+        {
+            "title": "User Interface Components",
+            "subtitle": "Components collection",
+            "imageLink": "../assets/images/project-icons/components.webp",
+            "projectLink": "/ui-components",
+            "projectType": "",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "Git",
+                "GitHub",
+                "React",
+                "React Bootstrap",
+                "Mobile-First Design",
+                "Responsive Web Design"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [],
+            "subProjects": [
+                {
+                    "title": "Product Preview Card Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/product-preview-thumbnail.webp",
+                        "altText": "Image for Product Preview Card Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/Krishkaye/Product-preview-card-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://Krishkaye.github.io/Product-preview-card-component/"
+                },
+                {
+                    "title": "Interactive Rating Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/interactive-rating-thumbnail.webp",
+                        "altText": "Image for Interactive Rating Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/Krishkaye/Interactive-rating-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://Krishkaye.github.io/Interactive-rating-component/"
+                },
+                {
+                    "title": "Order Summary Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/order-summary-thumbnail.webp",
+                        "altText": "Image for Order Summary Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/Krishkaye/Order-summary-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        },
+                        {
+                            "sourceCodeLink": "https://github.com/Krishkaye/Order-summary-component-React",
+                            "sourceCodeLinkTitle": "React"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://Krishkaye.github.io/Order-summary-component/"
+                },
+                {
+                    "title": "Results Summary Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/results-summary-thumbnail.webp",
+                        "altText": "Image for Results Summary Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/Krishkaye/results-summary-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://Krishkaye.github.io/results-summary-component/"
+                }
+            ]
+        },
+
+        {
+            "title": "Pet Dex",
+            "subtitle": "Pet Health Mobile Application",
+            "imageLink": "../assets/images/project-icons/pet-dex.webp",
+            "projectLink": "/pet-dex",
+            "projectType": "",
+            "technologies": [
+                "Balsamiq",
+                "User Interace (UI) Design",
+                "User Experience (UX) Design"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-1.webp",
+                    "altText": "Screenshot for Pet Dex 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-2.webp",
+                    "altText": "Screenshot for Pet Dex 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-3.webp",
+                    "altText": "Screenshot for Pet Dex 3"
+                },
+                {
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-4.webp",
+                    "altText": "Screenshot for Pet Dex 4"
+                }
+            ]
+        },
+        {
+            "title": "Photo Restoration",
+            "subtitle": "Various damaged / old photo restoration projects",
+            "imageLink": "../assets/images/project-icons/photo-restoration.webp",
+            "projectLink": "/photo-restoration",
+            "projectType": "",
+            "technologies": [
+                "Black and White Photo Colorization",
+                "Recreate Missing Pieces",
+                "Fix Faded Photos",
+                "Repair Damaged Photos",
+                "Repair Ripped and Torn Photos",
+                "Old Photo Retouching",
+                "Sharpen Old Photos",
+                "Combine Multiple Old Photos"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-before.webp",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-after.webp",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                },
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-before.webp",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-after.webp",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                },
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/father-and-daughter-at-beach/father-and-daughter-at-beach-before.webp",
+                        "altText": "Father and daughter beach photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/father-and-daughter-at-beach/father-and-daughter-at-beach-after.webp",
+                        "altText": "Father and daughter beach photo after restoration"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Photo Editing",
+            "subtitle": "Various photo manipulation and editing projects",
+            "imageLink": "../assets/images/project-icons/photo-editing.webp",
+            "projectLink": "/photo-editing",
+            "projectType": "",
+            "technologies": [
+                "Color Correction",
+                "Remove Unwanted Objects",
+                "Change Image Background"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/family-at-beach/family-at-beach-before.webp",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/family-at-beach/family-at-beach-after.webp",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                },
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-before.webp",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-after.webp",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Graphic Design",
+            "subtitle": "Various graphic design projects",
+            "imageLink": "../assets/images/project-icons/graphic-design.webp",
+            "projectLink": "/graphic-design",
+            "projectType": "",
+            "technologies": [
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "Photo Enhancement",
+                "Photo Editing",
+                "Branding",
+                "Layouting"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/lol-all-tournaments.webp",
+                    "altText": "Screenshot for Graphic Design 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/kalye-bbq-social-media-ads.webp",
+                    "altText": "Screenshot for Graphic Design 4"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/pinnacle-discount-coupon.webp",
+                    "altText": "Screenshot for Graphic Design 5"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/730th-block-business-card.webp",
+                    "altText": "Screenshot for Graphic Design 6"
+                }
+            ]
+        }
+    ]
+}
